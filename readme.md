@@ -8,15 +8,13 @@ I’m passionate about building **AI-powered solutions** and leveraging **Data S
 
 ## 🔥 About Me  
 - 🎯 Preparing for **Data Science interviews**  
-- 🏋️ Building **AI + Fitness Tracking (Pose Estimation)** projects  
+- 🏋️ Building **EDA, ML, AI** projects  
 - 📊 Exploring **Deep Learning, NLP, and Predictive Analytics**  
 - 📚 Learning and practicing with **end-to-end ML pipelines**  
-- 🌱 Improving **communication skills in English**  
+- 🌱 Improving **Soft Skills**  
 - 💡 Open to **collaboration on AI projects & open-source**  
 
 ---
-
-## 🛠️ Tech Stack  
 
 ## 🛠️ Tech Stack  
 
@@ -69,21 +67,36 @@ Built with Python, Pandas, Power BI, and Matplotlib for real-time insights.
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats   
 
-![Abhinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinay2708&show_icons=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinay2708&layout=compact&theme=radical)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhinay2708&theme=radical)  
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=abhinaymahato&show_icons=true&theme=radical" alt="Abhinay's GitHub stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinaymahato&layout=compact&theme=radical" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinaymahato&theme=radical" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+ 
 
 ---
 
 ## 🌍 Let's Connect  
 
-📫 Reach me on:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](linkedin.com/in/abhinay-mahato-a23b6b367)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhinaymahato10@gmail.com)  
+<p align="center">
+  <a href="linkedin.com/in/abhinay-mahato-a23b6b367" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="abhinaymahato10@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
+
 
 ---
 
