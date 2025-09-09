@@ -63,11 +63,11 @@ Built with Python, Pandas, Power BI, and Matplotlib for real-time insights.
 
 ## 📊 GitHub Stats  
 
-![Abhinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinaymahato&show_icons=true&theme=radical)  
+![Abhinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinay2708&show_icons=true&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinaymahato&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinay2708&layout=compact&theme=radical)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhinaymahato&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhinay2708&theme=radical)  
 
 ---
 
@@ -75,7 +75,7 @@ Built with Python, Pandas, Power BI, and Matplotlib for real-time insights.
 
 📫 Reach me on:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](linkedin.com/in/abhinay-mahato-a23b6b367)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhinaymahato10@gmail.com)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhinaymahato10@gmail.com)  
 
 ---
 
