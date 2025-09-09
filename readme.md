@@ -72,13 +72,13 @@ Built with Python, Pandas, Power BI, and Matplotlib for real-time insights.
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=abhinaymahato&show_icons=true&theme=radical" alt="Abhinay's GitHub stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=abhinay2708&show_icons=true&theme=radical" alt="Abhinay's GitHub stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinaymahato&layout=compact&theme=radical" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinay2708&layout=compact&theme=radical" alt="Top Languages" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinaymahato&theme=radical" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinay2708&theme=radical" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
