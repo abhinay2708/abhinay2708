@@ -1,9 +1,12 @@
 name: Generate Snake
 
 on:
-  schedule:                # Run automatically every 12 hours
+  schedule:
     - cron: "0 */12 * * *"
-  workflow_dispatch:       # Allow manual trigger
+  workflow_dispatch:
+
+permissions:
+  contents: write   # ✅ This is required for pushing
 
 jobs:
   build:
@@ -15,7 +18,7 @@ jobs:
       - name: Generate Snake animation
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: abhinay2708   # ✅ your username
+          github_user_name: abhinay2708
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
