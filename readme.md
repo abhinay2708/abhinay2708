@@ -101,3 +101,5 @@ Built with Python, Pandas, Power BI, and Matplotlib for real-time insights.
 ---
 
 ✨ *“Always curious to learn, share, and collaborate on open-source.”*  
+![Snake animation](https://raw.githubusercontent.com/abhinaymahato/abhinaymahato/output/snake.svg)
+
