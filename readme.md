@@ -102,6 +102,14 @@ Built with Python, Pandas, Power BI, and Matplotlib for real-time insights.
 
 ✨ *“Always curious to learn, share, and collaborate on open-source.”*
 
-## Contribution 🐍 Snake
-![Snake animation](https://raw.githubusercontent.com/abhinay2708/abhinay2708/output/snake.svg)
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhinay2708/abhinay2708/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhinay2708/abhinay2708/output/snake-light.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abhinay2708/abhinay2708/output/snake-dark.svg" />
+  </picture>
+</p>
+
 
