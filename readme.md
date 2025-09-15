@@ -92,7 +92,7 @@ Built with Python, Pandas, Power BI, and Matplotlib for real-time insights.
   <a href="https://www.linkedin.com/in/abhinay-mahato-a23b6b367/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="mail to:abhinaymahato10@gmail.com">
+  <a href="mailto:abhinaymahato10@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
 </p>
