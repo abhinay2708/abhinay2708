@@ -78,7 +78,7 @@ Built with Python, Pandas, Power BI, and Matplotlib for real-time insights.
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinay2708&layout=compact&theme=radical" alt="Top Languages" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinay2708&theme=radical" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinay2708&theme=dark" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
